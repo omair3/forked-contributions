@@ -12,7 +12,7 @@ More changes from cloning.
 
 |                                                    | Name                   | Profile                                             |
 | -------------------------------------------------- | ---------------------- | --------------------------------------------------- |
-| ![Mohammed Omairulla](images/mohdomair3.png)       | Mohammed Omairullah    | [mohd-omair](students/mohd-omair)                   |
+
 
 ### Faculty
 
